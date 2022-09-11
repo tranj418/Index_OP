@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <h1>
+        <a style="font-family: tahoma;">
+            <center>King of the Beasts - Kaido</center>
+        </a>
+        <hr size="20" color="black">
+    </h1>
+        
+    <h2><center>   
+        
+        <a href="https://www.youtube.com/watch?v=VXV5ZbJK6fo" target="_BLANK">
+            <img src="HTML_Images/Kaido.jpg" title="Kaido Dragon form" width="360" height="290">
+        </a>
+        <a href="https://www.youtube.com/watch?v=cGnba1iFnxw&t=1s" target="_BLANK">
+            <img src="html_images/Kaido_bounty.png" title="Kaido's Bounty" width="300" height="290">
+        </a>
+        <a href="https://www.youtube.com/watch?v=4QzBMsEHlPM" target="_blank">
+            <img src="html_images/Kaido_hybrid.jpg" title="Kaido's strongest form" width="300" height="290">
+        </a>
+        <a href="https://www.youtube.com/watch?v=VMpD01XhTIQ" target="_blank">
+            <img src="html_images/RocksPirates.jpg" title="Kaido's former pirate crew association" width="360" height="290">
+        </a>
+    </h2></center>
+</head>
+
+
+<body style="background-color:rgb(40, 68, 161)">
+    <p style="font-size: large; font-family: tahoma;"><u><b>Kaido's feats</b></u></p>
+    <ol>
+        <li>
+            
+        </li>
+    </ol>
+    <h1><center><u>Kaido's Calamaties</u></center></h1>
+    <center><table>
+        <tr>
+            <th><a style="font-family: tahoma;" 
+                href="https://onepiece.fandom.com/wiki/King" 
+                target="_blank"
+                title="Learn more about Kaido's right-hand man"
+                color="black">King the Wildfire</a></th>
+            <th><a style="font-family: tahoma;" 
+                href="https://onepiece.fandom.com/wiki/Queen" 
+                target="_BLANK" 
+                title="Kaido's second commander">Queen the Plague</a></th>
+            <th><a style="font-family: tahoma;" 
+                href="https://onepiece.fandom.com/wiki/Jack" 
+                target="_blank" 
+                title="Kaido's third commander">Jack the Drought</a></th>
+        </tr>
+    </center></table>
+    
+
+
+
+
+</body>
+
+</html>
