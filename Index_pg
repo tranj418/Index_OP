@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<HEAD style="font-family: Tahoma;"> <!--Work on this page tomorrow!-->
+
+    <meta charset="UTF-8">
+    <meta name="Description" content="Free site for One Piece">
+    <meta name="Keywords" content="One piece, one piece guide, one piece wiki">
+    <meta name="author" content="Jimmy Boy">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--meta http-equiv="refresh" content="10"!--> <!--This is to set the page to auto-refresh--> 
+    <center><h1>One Piece World</h1></center>
+    <hr size="20" color="Gold">
+
+    <center><table bgcolor="black">
+        <tr bgcolor="gold">
+            <th style="color: black; font-family: Tahoma;">Characters</th>
+            <th style="color: black; font-family: Tahoma;">Major Events</th>
+            <th style="color: black; font-family: Tahoma;">Islands</th>
+            <th style="color: black; font-family: Tahoma;">Pirate Crews</th>
+            <th style="color: black; font-family: Tahoma;">Factions</th>
+            <th style="color: black; font-family: Tahoma;">Haki</th>
+        </tr>
+    </center></table>
+    <br>
+    <br>
+    <br>
+
+</HEAD>
+
+<BODY style="background-color: deepskyblue; font-family: Tahoma;">
+
+    <p Align="Left">
+        The World of One Piece is one where readers are invited to explore the 4 Blue's that is separated 
+        by the Grand Line and the Red Line. In addition the various characters and events that have transpired that have shaped
+        the world of One Piece. Showcasing the power struggle that contend around <b>The Navy</b>, <b>Pirates</b>, and <b>The Revolutionaries</b>.
+        Join the StrawHat pirates on their adventure and observe them meet new people, explore new lands, and take on strong and vicious foes as 
+        they continue to achieve their own individual goals. While working collectively to help Luffy become the Pirate King!
+        <br>
+        <br>
+        <br>
+        The are many enemies that the StrawHat will come across that will help them refine their skills and develop a better knowledge of the seas
+        that they sail. These enemies are sly and cunning, quick to initiate any underhanded tactic that will enable them to survive and win.
+        There are those that contain key pieces of information into the history of One Piece. The knowlegde these characters contain range from:
+        knowledge of Devil Fruits, The Void Century, The 3 great weapons, and more.
+        There are foes with strength so powerful they can decimate an entire island before their enemies's very own eyes. These characters possess 
+        haki so great it allows them to withstand the harsh environments in the New World.
+        <br>
+        <p align="left"><b>These are just some of the mysterious places in the world of One Piece:</b><p>
+        <ul Align="Left">
+            <li>Laughtale</li>
+            <li>Florian Triangle</li>
+            <li>Elbaf</li>
+            <li>God Valley</li>
+        </ul>
+    </p>
+<img src="html_images/OnePieceMap.png" height="240" width="300" title="One Piece Map">
+<img src="html_images/EniesLobby.jpg" height="240" widht="300" title="Enies Lobby">
+<img src="html_images/GodValley.jpg" height="240" widht="300" title="God Valley">
+<img src="html_images/Wano.jpg" height="240" widht="300" title="Wano">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <button onclick="dosomething()" style="background-color: aqua; color: gold; border-radius: 5px;">Click me</button>
+
+    <p id="test">
+        Hello
+    </p>
+    <script>
+        function dosomething(){
+            document.getElementById("test").innerHTML = "goodbye";
+        }
+    </script>
+
+    <h1 align="Center"><u>The Yonkos</u></h1>
+    <center><table bgcolor="black">
+        <tr bgcolor="gold">
+            <th style="color: black; font-family: Tahoma;">Roger Pirates</th>
+            <th style="color: black; font-family: Tahoma;">Red Hair Pirates</th>
+            <th style="color: black; font-family: Tahoma;">WhiteBeard Pirates</th>
+            <th style="color: black; font-family: Tahoma;"><a href="BeastPirates.html" target="_BLANK" title="King of 1000 beasts">Beast Pirates</a></th>
+            <th style="color: black; font-family: Tahoma;">Big Mom Pirates</th>
+            <th style="color: black; font-family: Tahoma;">Straw Hat Pirates</th>
+        </tr>
+    </center></table>
+
+    
+    <iframe style="border: 0;" src="BeastPirates.html" width="400" height="200"></iframe><!--Does NOT work for all sites you want to link due to security issues-->
+
+
+
+</BODY>
+
+
+</HTML>
